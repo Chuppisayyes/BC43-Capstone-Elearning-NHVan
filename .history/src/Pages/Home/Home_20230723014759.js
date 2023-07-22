@@ -527,7 +527,7 @@ export default function Home() {
               <h1>Chào mừng</h1>
               <h1>đến với môi trường </h1>
               <h1>
-                VCber<span>Academy</span>
+                T<span>learning</span>
               </h1>
               <button className="btnGlobal btnSlider mt-4">Bắt đâu nào</button>
             </div>

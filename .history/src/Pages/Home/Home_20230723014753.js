@@ -527,7 +527,7 @@ export default function Home() {
               <h1>Chào mừng</h1>
               <h1>đến với môi trường </h1>
               <h1>
-                VCber<span>Academy</span>
+                T<span>learning</span>
               </h1>
               <button className="btnGlobal btnSlider mt-4">Bắt đâu nào</button>
             </div>
@@ -716,7 +716,7 @@ export default function Home() {
                   <li>
                     <i className="fas fa-check"></i>
                     <span>
-                      Kết nối CV của bạn đến với các đối tác của VCyber Academy
+                      Kết nối CV của bạn đến với các đối tác của VCyber 
                     </span>
                   </li>
                 </ul>

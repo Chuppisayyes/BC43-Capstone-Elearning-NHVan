@@ -7,7 +7,7 @@ export default function PageNotLoading() {
             <section className="page_404">
                 <div className="page404_container">
                     <div className='content404'>
-                        <h1 className="text404">Failed</h1>
+                        <h1 className="text404">Không ổn rồi đại vương</h1>
                     </div>
                     <div className="content_box_404">
                         <h3 className="">
